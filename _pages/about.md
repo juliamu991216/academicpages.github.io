@@ -12,9 +12,9 @@ Email: juliamu991216@gmail.com
 
 Office: Room 501, K17 Building
 
-School of Computer Science and Engineering
+[School of Computer Science and Engineering](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering)
 
-University of New South Wales
+[University of New South Wales](https://www.unsw.edu.au/)
 
 Sydney, NSW, 2052, Australia
 
@@ -31,9 +31,9 @@ Bachelor of Art in Philosophy
 
 Ph.D
 
-2023-Present         | [University of New South Wales](https://www.unsw.edu.au/), AUS
+2023-Present         | University of New South Wales, AUS
 
-[School of Computer Science and Engineering](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering), supervised by [Prof. Jingling Xue](https://www.cse.unsw.edu.au/~jingling/)
+School of Computer Science and Engineering, supervised by [Prof. Jingling Xue](https://www.cse.unsw.edu.au/~jingling/)
 Interested in Artificial intelligence security.
 
 Publications
