@@ -22,16 +22,16 @@ Education Background
 ======
 Undergraduate
 
-2018-2022          Michigan State Univerity, USA
+2018-2022         | Michigan State Univerity, USA
 
 Bachelor of Science in Mathematics
 
-Bachlch of Art in Philosopy
+Bachelor of Art in Philosophy
 
 
 Ph.D
 
-2023-Present          [University of New South Wales](https://www.unsw.edu.au/), AUS
+2023-Present         | [University of New South Wales](https://www.unsw.edu.au/), AUS
 
 [School of Computer Science and Engineering](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering), supervised by [Prof. Jingling Xue](https://www.cse.unsw.edu.au/~jingling/)
 Interested in Artificial intelligence security.
