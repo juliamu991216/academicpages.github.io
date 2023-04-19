@@ -9,20 +9,29 @@ redirect_from:
 ---
 
 Email: juliamu991216@gmail.com
+
 Office: Room 501, K17 Building
+
 School of Computer Science and Engineering
+
 University of New South Wales
+
 Sydney, NSW, 2052, Australia
 
 Education Background
 ======
 Undergraduate
+
 2018-2022      Michigan State Univerity, USA
+
 Bachelor of Science in Mathematics
+
 Bachlch of Art in Philosopy
 
 Ph.D
+
 2023-Present   University of New South Wales, AUS
+
 College of Computer Science and Engineering, supervised by [Prof. Jingling Xue](https://www.cse.unsw.edu.au/~jingling/)
 
 
