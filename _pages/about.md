@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Peresonal Information"
+title: "Personal Information"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
