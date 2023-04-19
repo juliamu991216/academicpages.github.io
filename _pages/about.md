@@ -31,9 +31,9 @@ Bachlch of Art in Philosopy
 
 Ph.D
 
-2023-Present          University of New South Wales, AUS
+2023-Present          [University of New South Wales](https://www.unsw.edu.au/), AUS
 
-School of Computer Science and Engineering, supervised by [Prof. Jingling Xue](https://www.cse.unsw.edu.au/~jingling/)
+[School of Computer Science and Engineering](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering), supervised by [Prof. Jingling Xue](https://www.cse.unsw.edu.au/~jingling/)
 Interested in Artificial intelligence security.
 
 Publications
