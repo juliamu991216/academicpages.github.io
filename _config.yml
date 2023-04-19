@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yuechen Mu / Ph.D UNSW"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuechen Mu"
-  avatar           : "profile.png"
+  avatar           : "WeChat Image_20230419164422.jpg"
   bio              : "Ph.D Student of UNSW"
   location         : "Location"
   employer         :
