@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Email: juliamu991216@gmail.com
+Email: yuechen.mu@unsw.edu.au
 
 Office: Room 501, K17 Building
 
