@@ -12,7 +12,7 @@ Email: yuechen.mu@unsw.edu.au
 
 Office: Room 501, K17 Building
 
-Address: [School of Computer Science and Engineering](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering)
+[School of Computer Science and Engineering](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering)
 
 [University of New South Wales](https://www.unsw.edu.au/)
 
