@@ -35,7 +35,7 @@ Ph.D
 
 School of Computer Science and Engineering, supervised by [Prof. Jingling Xue](https://www.cse.unsw.edu.au/~jingling/)
 
-Interested in Artificial intelligence security.
+Interested in Privacy computing.
 
 Publications
 ======
